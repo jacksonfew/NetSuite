@@ -178,19 +178,48 @@ span.rvts32
 }
 span.rvts33
 {
+ font-size: 16pt;
+}
+span.rvts34
+{
+ font-weight: bold;
+ color: #000000;
+ text-decoration: underline;
+}
+span.rvts35
+{
+ font-size: 14pt;
+ color: #ff0000;
+}
+span.rvts36
+{
+ font-size: 14pt;
+}
+span.rvts37
+{
+ font-size: 14pt;
+ font-style: italic;
+}
+span.rvts38
+{
+ font-size: 14pt;
  color: #000000;
 }
-a.rvts34, span.rvts34
+span.rvts39
+{
+ color: #000000;
+}
+a.rvts40, span.rvts40
 {
  font-size: 9pt;
  color: #0000ff;
  text-decoration: underline;
 }
-span.rvts35
+span.rvts41
 {
  color: #000000;
 }
-span.rvts36
+span.rvts42
 {
  font-weight: bold;
 }
